@@ -1,4 +1,4 @@
-waste_category = {'banana':'wet','plastic':'dry','paper':'dry','fruits':'wet','apple':'wet','glass':'dry'}
+waste_category = {'banana':'wet','plastic':'dry','paper':'dry','apple':'wet','glass':'dry'}
 def classify_waste(waste,weight):
     if waste in waste_category:
         category = waste_category[waste]
