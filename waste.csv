@@ -1,0 +1,11 @@
+waste,weight,Category,amount_status
+banana,5.0,wet,large amount
+plastic,10.0,dry,large amount
+plastic,9.3,dry,large amount
+glass,4.0,dry,small amount
+food,5.0,wet,large amount
+banana,5.0,wet,large amount
+plastic,8.0,dry,large amount
+water,5.0,unknown waste,large amount
+paper,8.0,dry,large amount
+banana,4.0,wet,small amount
